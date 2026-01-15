@@ -13,7 +13,7 @@ library(rethinking)
 # Bayesian Statistical Modeling Winter 2026
 ## Lab Exercise, Week 2
 
-This assignment is due on Thursday, 1/22/2026. Submit the Rmd and pdf to gradescope: 
+This assignment is due on Thursday, 1/22/2026. Submit the PDF and .rmd file to Canvas: 
 
 
 These problems follow up on the example of estimating the percentage of the Earth's surface that is water. 
